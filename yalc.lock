@@ -15,6 +15,11 @@
       "signature": "2ef74167f91eaf33372a7ed4d025b6c7",
       "file": true,
       "replaced": "^1.11.1"
+    },
+    "prismarine-chunk": {
+      "signature": "930b14991250c5effadbde4275959666",
+      "file": true,
+      "replaced": "^1.41.0"
     }
   }
 }
