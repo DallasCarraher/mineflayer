@@ -1,0 +1,20 @@
+{
+  "version": "v1",
+  "packages": {
+    "minecraft-data": {
+      "signature": "4b632d929e336f48bff774124cff1029",
+      "file": true,
+      "replaced": "^3.114.0"
+    },
+    "minecraft-protocol": {
+      "signature": "b102140e2384ac38fd1bef9f2ab85a23",
+      "file": true,
+      "replaced": "^1.67.0"
+    },
+    "prismarine-physics": {
+      "signature": "2ef74167f91eaf33372a7ed4d025b6c7",
+      "file": true,
+      "replaced": "^1.11.1"
+    }
+  }
+}
